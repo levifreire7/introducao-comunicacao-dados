@@ -36,6 +36,7 @@
 12. Converta os números seguintes entre as bases indicadas.
 
 a. De Decimal para Binário.
+
 	1. 77
 	
 	2. 189
@@ -45,6 +46,7 @@ a. De Decimal para Binário.
 	4. 51210
 
 b. De Binário para Decimal.
+
 	1. 11001
 	
 	2. 101101011

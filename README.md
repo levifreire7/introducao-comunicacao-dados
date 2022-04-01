@@ -4,11 +4,11 @@
 
 #### Conteúdos para a prova
 
-1. Meios de transmissão
-2. Protocolos utilizados na comunicação de dados
-3. Sinal analógico e digital
-4. Fundamentos de radiofrequência (ondas)
-5. Sistema binário
+1. Meios de transmissão.
+2. Protocolos utilizados na comunicação de dados.
+3. Sinal analógico e digital.
+4. Fundamentos de radiofrequência (ondas).
+5. Sistema binário.
 
 #### Exercício de revisão
 1- Cite e descreva três tipos de meio de transmissão utilizado na comunicação de dados.

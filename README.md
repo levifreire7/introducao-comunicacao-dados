@@ -19,21 +19,21 @@
 
 4- Quais as principais características da fibra óptica?
 
-5. Quais as vantagens e desvantagens da transmissão wireless?
+5- Quais as vantagens e desvantagens da transmissão wireless?
 
-6. O que são protocolos de rede?
+6- O que são protocolos de rede?
 
-7. Quais as funções dos protocolos de rede?
+7- Quais as funções dos protocolos de rede?
 
-8. O que é um sinal analógico?
+8- O que é um sinal analógico?
 
-9. O que é um sinal digital?
+9- O que é um sinal digital?
 
-10. Diferencie ondas mecânicas de ondas eletromagnéticas.
+10- Diferencie ondas mecânicas de ondas eletromagnéticas.
 
-11. Defina frequência e comprimento de onda.
+11- Defina frequência e comprimento de onda.
 
-12. Converta os números seguintes entre as bases indicadas.
+12- Converta os números seguintes entre as bases indicadas.
 
 a. De Decimal para Binário.
 

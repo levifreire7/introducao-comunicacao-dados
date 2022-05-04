@@ -2,7 +2,7 @@
 
 ### Largura de banda
 
-Vídeo: https://www.youtube.com/watch?v=_aQNVd64PZU&t=627s
+Vídeo: https://www.youtube.com/watch?v=_aQNVd64PZU&t
 
 ### Modo de Transmissão de Dados
 
@@ -10,6 +10,6 @@ Vídeo: https://www.youtube.com/watch?v=_aQNVd64PZU&t=627s
 
 -> Transmissão Serial: https://www.youtube.com/watch?v=583KlcQM5kM
 
--> Transmissão Paralela: https://www.youtube.com/watch?v=9Es8zrWfn2A&t=255s
+-> Transmissão Paralela: https://www.youtube.com/watch?v=9Es8zrWfn2A&t
 
 

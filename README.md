@@ -16,6 +16,8 @@ Vídeo: Largura de banda (bandwidth), taxa de transmissão (throughput) e latên
 
 ### Métodos de transmissão em Série e Paralela
 
+Slide: Aulas 17 e 18
+
 Transmissão paralela (texto): https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/2
 
 Transmissão em série (texto): https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/3

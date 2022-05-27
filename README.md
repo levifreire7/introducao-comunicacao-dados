@@ -1,4 +1,4 @@
-# Avaliação Parcial de Introdução a Comunicação de Dados
+# Avaliação Parcial de Introdução à Comunicação de Dados
 
 ### Modulação e demodulação de sinais
 

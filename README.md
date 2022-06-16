@@ -29,6 +29,8 @@ Disponível em: https://youtu.be/DrrEh4T1-JY
 
 ### 4. Modos de transmissão/Classificação quanto à difusão
 
+Unicast, Multicast e Broadcast
+
 Ver slide Aulas 19 e 20
 
 ### 5. Tipos de conexão: ponto a ponto e multiponto.

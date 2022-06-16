@@ -2,9 +2,9 @@
 
 ### 1. Meios de transmissão guiados
 
-Cabo de rede UTP e STP
+Cabo de rede UTP e STP (assistir vídeos abaixo)
 
-Fibra optica monomodo e multimodo
+Fibra optica monomodo e multimodo (assistir vídeos abaixo)
 
 Vídeo: Meios de Transmissão Guiados (Parte 1) - Curso Redes
 

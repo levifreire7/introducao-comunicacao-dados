@@ -1,36 +1,48 @@
-# Avaliação Parcial de Introdução à Comunicação de Dados
+# Avaliação Bimestral de Introdução à Comunicação de Dados
 
-### Modulação e demodulação de sinais
+### 1. Meios de transmissão guiados
 
-Slide: Aulas 13 e 14
+Vídeo: Meios de Transmissão Guiados (Parte 1) - Curso Redes
 
-Vídeo: Modulação e demodulação de sinais: https://www.youtube.com/watch?v=Cea_R9GPlNM
+Disponível em: https://youtu.be/lAi1P7FQlXM
 
-Vídeo: Modulação (atenção, basta assistir até o minuto 6:22): https://www.youtube.com/watch?v=aSqJrf4EfIo
+Vídeo: Meios de Transmissão Guiados (Parte 2) - Curso Redes
 
-### Largura de Banda, throughput e latência
+Disponível em: https://www.youtube.com/watch?v=s439dntqpOw
 
-Slide: Aulas 15 e 16
+### 2. Meios de transmissão não guiados
 
-Vídeo: Largura de banda (bandwidth), taxa de transmissão (throughput) e latência [REDES DE COMPUTADORES]: https://www.youtube.com/watch?v=_aQNVd64PZU
+Vídeo: Meios de Transmissão Não Guiados (Parte 1) - Curso Redes
 
-### Métodos de transmissão em Série e Paralela
+Disponível em: https://www.youtube.com/watch?v=0d63qT5luxo
 
-Slide: Aulas 17 e 18
+Vídeo: Meios de Transmissão Não Guiados (Parte 2) - Curso Redes
 
-Transmissão paralela (texto): https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/2
+Disponível em: https://www.youtube.com/watch?v=4dSVoZi5lN4
 
-Transmissão em série (texto): https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/3
+### 3. Sentido da transmissão / modo de transmissão / classificação quanto ao tipo de fluxo
 
-Detalhes da comunicação serial (texto): https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/4
+Vídeo: Simplex, Half-Duplex e Full Duplex explicado com exemplos práticos! [Redes De
+Computadores]
 
-Vídeo (caso queiram relembrar o que foi visto em sala): https://www.youtube.com/watch?v=Y3c2sVKm0KM
+Disponível em: https://youtu.be/DrrEh4T1-JY
 
-### Transmissão Síncrona e Assíncrona
+### 4. Modos de transmissão/Classificação quanto à difusão
 
-Transmissão Síncrona e Assíncrona (texto): https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/5
+Ver slide Aulas 19 e 20
 
-Última atividade vista em sala com a resposta: https://materialpublic.imd.ufrn.br/curso/disciplina/2/61/4/6
+### 5. Tipos de conexão: ponto a ponto e multiponto.
 
-Vídeo de revisão (atenção, basta assistir até o minuto 5:42): https://www.youtube.com/watch?v=je1bjW-Gh6I
+Ver slide Aulas 19 e 20
 
+### 6. Telefonia celular e 5G
+
+Ver slide Aulas 19 e 20
+
+Vídeo: Como funciona o seu celular?
+
+Disponível em: https://www.youtube.com/watch?v=7kBTz_ANgsk
+
+Vídeo: Entenda: por que o 5G é tão revolucionário?
+
+Disponível em: https://youtu.be/44R0gssl_RE
